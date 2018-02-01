@@ -1,7 +1,7 @@
 Visualising the height of the Netherlands
 =========================================
 
-This project generates "evelation profiles" through horizontal cuts of the 
+This project generates "evelation profiles" of horizontal cuts through the 
 Netherlands. The visualisation can be found here:
 
 https://lucasvandijk.nl/2018/02/visualising-the-height-of-the-netherlands/
