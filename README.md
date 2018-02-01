@@ -6,6 +6,15 @@ Netherlands. The visualisation can be found here:
 
 https://lucasvandijk.nl/2018/01/visualising-the-height-of-the-netherlands/
 
+Authors
+-------
+
+* Lucas van Dijk
+* Dorus Leliveld (@Tclv)
+
+This project was created as part of the course Data Visualisation at Delft 
+University of Technology.
+
 Requirements
 -------------
 
