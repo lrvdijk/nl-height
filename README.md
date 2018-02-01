@@ -116,6 +116,7 @@ systems, etc.
 
 7. Generate elevation profiles for a given location. Repeat this step for 
    multiple locations.
+
         $ cd ../../../
         $ python python/dataset-gen.py Delft
 
